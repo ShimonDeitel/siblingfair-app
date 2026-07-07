@@ -1,0 +1,40 @@
+{
+  "identifier" : "SiblingFairnessTracker",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "SiblingFairnessTrackerPro",
+      "localizations" : [],
+      "name" : "SiblingFairnessTracker Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "SiblingFairnessTrackerProMonthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock Fairness balance chart across siblings.",
+              "displayName" : "SiblingFairnessTracker Pro Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.siblingfair.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "SiblingFairnessTracker Pro Monthly",
+          "subscriptionGroupID" : "SiblingFairnessTrackerPro",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
